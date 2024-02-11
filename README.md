@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineering student from Libya</h3>
 
 - 🌱 I’m currently learning **Cybersecurity and full-stack development**
-- 🎓 I study at the Libyan International Medical University School of Engineering and Technology 
+- 🎓 I study at the **Libyan International Medical University** School of Engineering and Technology 
 
 - 📫 How to reach me **rawaneltheni@gmail.com** 
 
