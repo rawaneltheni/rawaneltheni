@@ -2,8 +2,9 @@
 <h3 align="center">A passionate software engineering student from Libya</h3>
 
 - 🌱 I’m currently learning **Cybersecurity and full-stack development**
+- 🎓 I study at the Libyan International Medical University School of Engineering and Technology 
 
-- 📫 How to reach me **rawaneltheni@gmail.com**
+- 📫 How to reach me **rawaneltheni@gmail.com** 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rawaneltheni) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rawaneltheni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rawan-eltheni-61a5971ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rawan-eltheni) 
