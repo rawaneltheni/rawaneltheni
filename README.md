@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🙋🏻‍♀️, I'm Rawan Eltheni</h1>
 <h3 align="center">A passionate software engineering student from Libya</h3>
 
-- 🌱 I’m currently learning **Cybersecurity and full-stack development**
+- 🌱 I’m currently learning **Penetration Testing and Backend Development**
 - 🎓 I study at the **Libyan International Medical University** School of Engineering and Technology 
 
 - 📫 How to reach me **rawaneltheni@gmail.com** 
